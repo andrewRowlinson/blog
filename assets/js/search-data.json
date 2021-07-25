@@ -18,7 +18,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Hi, I’m Andy Rowlinson. I am a data scientist based in Finland. . My blogs are about data science and machine learning. You can reach me via email and Twitter. .",
           "url": "https://andrewrowlinson.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
