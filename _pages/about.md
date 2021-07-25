@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hi, I'm Andy Rowlinson. I am a data scientist based in Finland.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+My blogs are about data science and machine learning. You can reach me via <a href="mailto: rowlinsonandy@gmail.com">email</a> and <a href="https://twitter.com/numberstorm">Twitter</a>.
