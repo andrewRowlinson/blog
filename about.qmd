@@ -1,0 +1,21 @@
+---
+title: "About me"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/numberstorm
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andrewrowlinson/
+    - icon: github
+      text: Github
+      href: https://github.com/andrewRowlinson
+
+---
+
+Hi, I’m Andy Rowlinson. I am a data scientist based in Finland.
+
+My blogs are about data science and machine learning.

@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "numberstorm blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/andrewRowlinson
+      - icon: twitter
+        href: https://x.com/numberstorm
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
